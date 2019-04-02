@@ -6,7 +6,10 @@
   "dependencies": {
     "moment": "^2.24.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/uwikaiddi/modern_javascript/issues"
   },
-  "homepage": "https://github.com/uwikaiddi/modern_javascript#readme"
+  "homepage": "https://github.com/uwikaiddi/modern_javascript#readme",
+    "dependencies": {
+    "mathjs": "^5.8.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+
 }
+
