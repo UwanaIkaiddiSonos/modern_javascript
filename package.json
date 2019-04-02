@@ -4,9 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "mathjs": "^5.8.0",
     "moment": "^2.24.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "babel-loader": "^8.0.5",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
   },
@@ -22,15 +26,5 @@
   "bugs": {
     "url": "https://github.com/uwikaiddi/modern_javascript/issues"
   },
-  "homepage": "https://github.com/uwikaiddi/modern_javascript#readme",
-    "dependencies": {
-    "mathjs": "^5.8.0",
-    "moment": "^2.24.0"
-  },
-  "devDependencies": {
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0"
-  }
-
+  "homepage": "https://github.com/uwikaiddi/modern_javascript#readme"
 }
-
